@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Definir colores personalizados -->
+    <color name="menu_text_color">#FFFFFF</color>
+    <color name="menu_background_color">#FF4081</color>
+
+    <!-- Estilo personalizado para el menú -->
+    <style name="CustomMenuStyle" parent="Widget.AppCompat.PopupMenu.Overflow">
+        <item name="android:background">#FFFFFF</item>
+        <item name="android:textColor">#FF4081</item>
+    </style>
+</resources>

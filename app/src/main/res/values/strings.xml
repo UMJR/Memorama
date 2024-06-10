@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">memoramaDef</string>
+    <string-array name="cuatro">
+        <item>Seis Cartas</item>
+        <item>Ocho Cartas</item>
+    </string-array>
+    <string-array name="seis">
+        <item>Cuatro Cartas</item>
+        <item>Ocho Cartas</item>
+    </string-array>
+    <string-array name="ocho">
+        <item>Cuatro Cartas</item>
+        <item>Seis Cartas</item>
+    </string-array>
+</resources>

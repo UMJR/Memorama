@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nose"
+        android:title="Opciones"
+        android:titleCondensed="Opc"
+        app:actionViewClass="android.widget.TextView"
+        android:textColor="#FFFFFF"
+        android:background="#FF4081"
+        />
+</menu>
